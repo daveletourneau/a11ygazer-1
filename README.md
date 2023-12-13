@@ -1,6 +1,6 @@
 # A11yGazer
 
-This template should help get you started developing with Vue 3 in Vite.
+Outil d'aide à la production de rapports d'accessibilités
 
 ## Recommended IDE Setup
 
